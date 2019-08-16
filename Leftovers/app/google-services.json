@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367209757953",
+    "firebase_url": "https://mobile-computing-jos13502565.firebaseio.com",
+    "project_id": "mobile-computing-jos13502565",
+    "storage_bucket": "mobile-computing-jos13502565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367209757953:android:d9c2e65c2d0798c3",
+        "android_client_info": {
+          "package_name": "uk.ac.lincoln.students.a13502565.leftovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367209757953-87it5i77dqgakb5jh0op182m64rm5maa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.lincoln.students.a13502565.leftovers",
+            "certificate_hash": "3c016ef8b4eab9f87f944fa45492edece7aaa724"
+          }
+        },
+        {
+          "client_id": "367209757953-4afefnukrjqshimkcr3m45l0b6qt4qd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqsblAi9HUBCZusuphJjF0zlpDQRRrKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367209757953-4afefnukrjqshimkcr3m45l0b6qt4qd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
